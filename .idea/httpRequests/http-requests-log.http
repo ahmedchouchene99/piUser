@@ -1,0 +1,79 @@
+POST http://localhost:8083/api/v1/auth/register
+Content-Type: application/json
+{:
+  "firstname": "fares",
+  "lastname": "asdsda",
+  "email": "mradara@gmail.com",
+  "password": "Az123.",
+  "role": "Etudiant"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-04-17T114218.400.html
+
+###
+
+POST http://localhost:8083/api/v1/auth/register
+Content-Type: application/json
+{:
+  "firstname": "fares",
+  "lastname": "asdsda",
+  "email": "mradara@gmail.com",
+  "password": "Az123.",
+  "role": "Etidiant"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-04-17T114205.400.html
+
+###
+
+POST http://localhost:8083/api/v1/auth/registe
+Content-Type: application/json
+{:
+  "firstname": "fares",
+  "lastname": "asdsda",
+  "email": "mradara@gmail.com",
+  "password": "Az123.",
+  "role": "Etidiant"
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-04-17T114133.400.html
+
+###
+
+POST http://localhost:8083/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 126
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstname": "fares",
+  "lastname": "asdsda",
+  "email": "feres@gmail.com",
+  "password": "Az123.",
+  "role": "Etidiant"
+}
+
+###
+
+POST http://localhost:8083/api/v1/auth/register
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
